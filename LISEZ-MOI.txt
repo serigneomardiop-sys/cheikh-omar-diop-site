@@ -1,0 +1,15 @@
+SITE CHEIKH OMAR DIOP – VERSION 5
+
+Cette version est construite à partir de la version 2 validée comme base.
+
+Modifications :
+- La page d'accueil utilise le bandeau de référence complet (bande verte, logo, menu, portraits, titre et boutons).
+- L'ancien en-tête HTML est masqué uniquement sur la page d'accueil afin d'éviter le double en-tête.
+- Des zones cliquables transparentes rendent les éléments du menu et les deux boutons du bandeau utilisables sur ordinateur.
+- Une navigation simplifiée est affichée sur mobile sous le visuel.
+- Ajout des liens communiqués vers YouTube, TikTok et Facebook sur l'accueil, la page Fédération et le pied de page.
+- Rubrique Fédération distinguant Sénégal et diaspora.
+
+Pour publier : décompresser le ZIP et envoyer le dossier contenant directement index.html et le dossier images dans Netlify Drop. Ne pas téléverser un dossier parent supplémentaire.
+
+Les informations biographiques et les coordonnées de la fédération restent à valider par les responsables concernés avant publication définitive.
